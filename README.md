@@ -6,5 +6,3 @@
         <ul><b>HTML (index.html)</b>– For the user interface.</ul>
         <ul><b>CSS (style.css)</b>– For styling and layout.</ul>
         <ul><b>JavaScript (script.js)</b>  – For the interactivity of adding, removing, and editing tasks.</ul>
-
-    </p>
