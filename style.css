@@ -41,9 +41,12 @@ input{
     flex: 1;
     border: none;
     outline: none;
+    border-radius: 23px;
     background: transparent;
-    padding: 10px;
+    padding: 16px 50px;
+    background-color: wheat;
 }
+
 button{
     border: none;
     outline: none;
